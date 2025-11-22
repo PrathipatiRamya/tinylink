@@ -1,0 +1,36 @@
+E:\TINYLINK\SRC
+├───app
+│   │   favicon.ico
+│   │   globals.css
+│   │   layout.js
+│   │   page.js
+│   │
+│   ├───api
+│   │   └───links
+│   │       │   route.js
+│   │       │
+│   │       └───[code]
+│   │           │   route.js
+│   │           │
+│   │           └───analytics
+│   │                   route.js
+│   │
+│   ├───code
+│   │   └───[code]
+│   │           page.js
+│   │
+│   ├───healthz
+│   │       route.js
+│   │
+│   └───[code]
+│           route.js
+│
+├───components
+│       AnalyticsChart.jsx
+│       LinkForm.jsx
+│       LinksTable.jsx
+│       Toast.jsx
+│
+└───lib
+        db.js
+
